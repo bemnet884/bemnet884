@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bement
 
-🚀 **SaaS Builder | Full-Stack Developer | 3D Web Enthusiast **  
+🚀 ** SaaS Builder | Full-Stack Developer | 3D Web Enthusiast **  
 💡 Passionate about **scalable SaaS applications** and **interactive 3D web experiences**.  
 🎨 Creating immersive designs using **Three.js, R3F, and Spline**.  
 
