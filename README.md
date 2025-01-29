@@ -1,38 +1,49 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Bemnet  
 
-🚀 Passionate about **SaaS development**, cloud computing, and building scalable software solutions.  
-💡 I love working on innovative projects that solve real-world problems.  
-📚 Always learning and exploring new technologies in the SaaS ecosystem.  
-
-## 🔥 Skills & Tech Stack  
-
-- **Languages:** JavaScript, TypeScript, Python, Go  
-- **Frontend:** React, Next.js, Vue.js  
-- **Backend:** Node.js, Django, FastAPI  
-- **Databases:** PostgreSQL, MongoDB, Firebase  
-- **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, Terraform  
-- **CI/CD & Automation:** GitHub Actions, Jenkins  
-- **APIs & Microservices:** REST, GraphQL, gRPC  
+🚀 **Full-Stack Developer | 3D Web Enthusiast | SaaS Builder**  
+💡 Passionate about building **modern, scalable SaaS applications** and creating immersive **3D web experiences**.  
+🎨 Exploring **Three.js, R3F, and Spline** to push the boundaries of interactive web design.  
 
 ---
 
-## 📌 Featured SaaS Projects  
+## 🔥 **Tech Stack & Expertise**  
 
-### [🔗 Project 1 - SaaS Application Name](https://github.com/your-repo)  
-A short description of this project, why it's unique, and what technologies were used.  
+### 🌐 **Full-Stack Development**  
+- **Languages:** TypeScript, JavaScript  
+- **Frontend:** React.js, Next.js, Tailwind CSS, Framer Motion  
+- **Backend:** Next.js API routes, Prisma, MongoDB, PostgreSQL  
+- **State Management:** Zustand, Redux Toolkit  
 
-### [🔗 Project 2 - API for a SaaS Product](https://github.com/your-repo)  
-Explain what this API does and how it fits into a SaaS workflow.  
+### 🎨 **3D Web & Animations**  
+- **Three.js & R3F** → Interactive 3D experiences  
+- **Spline** → No-code 3D design  
+- **Framer Motion & GSAP** → Smooth UI animations  
+- **Blender** → 3D modeling & optimization  
 
-### [🔗 Project 3 - Open-Source SaaS Boilerplate](https://github.com/your-repo)  
-A boilerplate project to help SaaS developers get started quickly.  
+### 🚀 **DevOps & Tooling**  
+- **Git & GitHub** → Version control  
+- **Vercel** → Deployment for Next.js  
+- **ESLint + Prettier** → Code quality  
 
 ---
 
-## 🌎 Connect with Me  
+## 📌 **Featured Projects**  
+
+### 🚀 [**Next.js SaaS Dashboard**](https://github.com/your-repo)  
+A full-stack SaaS dashboard with **Next.js, Prisma, and PostgreSQL**.  
+
+### 🎨 [**3D Portfolio Website**](https://github.com/your-repo)  
+An interactive portfolio built using **Three.js, R3F, and Spline**.  
+
+### 🖥️ [**Framer Motion UI Components**](https://github.com/your-repo)  
+A collection of animated components for Next.js projects.  
+
+---
+
+## 🌎 **Let's Connect**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/yourgithub)  
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/yourtwitter)  
 
-💬 Feel free to reach out if you want to collaborate on **SaaS projects** or discuss **scalable software architecture**.  
+💬 **Let’s collaborate** on **SaaS applications** and **3D web projects**!  
