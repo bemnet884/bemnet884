@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Bemnet  
+<img width="1440" alt="Screen Shot 2025-01-29 at 3 53 01 PM" src="https://github.com/user-attachments/assets/f1b6021f-b412-4db6-8cd8-fea427555510" /># 👋 Hi, I'm Bement
 
 🚀 **Full-Stack Developer | 3D Web Enthusiast | SaaS Builder**  
-💡 Passionate about building **modern, scalable SaaS applications** and creating immersive **3D web experiences**.  
-🎨 Exploring **Three.js, R3F, and Spline** to push the boundaries of interactive web design.  
+💡 Passionate about **scalable SaaS applications** and **interactive 3D web experiences**.  
+🎨 Creating immersive designs using **Three.js, R3F, and Spline**.  
 
 ---
 
@@ -29,14 +29,33 @@
 
 ## 📌 **Featured Projects**  
 
-### 🚀 [**Next.js SaaS Dashboard**](https://github.com/your-repo)  
-A full-stack SaaS dashboard with **Next.js, Prisma, and PostgreSQL**.  
+### 🚀 [**Next.js SaaS Dashboard**](![Uploading Screen Shot 2025-01-29 at 3.53.01 PM.png…]()
+)  
+A **scalable SaaS dashboard** with authentication, database management, and a clean UI.  
 
-### 🎨 [**3D Portfolio Website**](https://github.com/your-repo)  
-An interactive portfolio built using **Three.js, R3F, and Spline**.  
+🔹 **Tech Used:** Next.js, Prisma, PostgreSQL, Tailwind CSS  
+🔹 **Hosted Version:** [Live Demo](https://your-saas-live-link.com)  
+🔹 **Preview:**  
+![SaaS Dashboard Preview](https://your-image-hosting.com/saas-dashboard.gif)  
 
-### 🖥️ [**Framer Motion UI Components**](https://github.com/your-repo)  
-A collection of animated components for Next.js projects.  
+---
+
+### 🎨 [**3D Portfolio Website**](https://your-portfolio-live-link.com)  
+A **fully interactive portfolio** with **Three.js, R3F, and Spline**, featuring 3D animations.  
+
+🔹 **Tech Used:** Next.js, Three.js, R3F, Spline, Tailwind CSS  
+🔹 **Live Demo:** [View Portfolio](https://your-portfolio-live-link.com)  
+🔹 **Preview:**  
+![3D Portfolio Preview](https://your-image-hosting.com/3d-portfolio.gif)  
+
+---
+
+### 🖥️ **Framer Motion UI Components**  
+A collection of **animated UI components** for React and Next.js apps.  
+
+🔹 **Tech Used:** React, Framer Motion, Tailwind CSS  
+🔹 **Preview:**  
+![Framer Motion Components](https://your-image-hosting.com/framer-components.gif)  
 
 ---
 
