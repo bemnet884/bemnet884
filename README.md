@@ -1,4 +1,4 @@
-<img width="1440" alt="Screen Shot 2025-01-29 at 3 53 01 PM" src="https://github.com/user-attachments/assets/f1b6021f-b412-4db6-8cd8-fea427555510" /># 👋 Hi, I'm Bement
+# 👋 Hi, I'm Bement
 
 🚀 **Full-Stack Developer | 3D Web Enthusiast | SaaS Builder**  
 💡 Passionate about **scalable SaaS applications** and **interactive 3D web experiences**.  
@@ -29,8 +29,7 @@
 
 ## 📌 **Featured Projects**  
 
-### 🚀 [**Next.js SaaS Dashboard**](![Uploading Screen Shot 2025-01-29 at 3.53.01 PM.png…]()
-)  
+### 🚀 [**Next.js SaaS Dashboard**](<img width="1440" alt="Screen Shot 2025-01-29 at 3 53 01 PM" src="https://github.com/user-attachments/assets/f1b6021f-b412-4db6-8cd8-fea427555510" />)  
 A **scalable SaaS dashboard** with authentication, database management, and a clean UI.  
 
 🔹 **Tech Used:** Next.js, Prisma, PostgreSQL, Tailwind CSS  
