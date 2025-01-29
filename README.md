@@ -43,16 +43,6 @@ A **fully interactive portfolio** with **Three.js, R3F, and Spline**, featuring 
 🔹 **Preview:**  
  ![3D Portfolio Preview]<img width="1440" alt="Screen Shot 2025-01-29 at 4 03 11 PM" src="https://github.com/user-attachments/assets/6e28b81e-4332-4d0c-abba-eb695bcc033e" />
 
-
----
-
-### 🖥️ **Framer Motion UI Components**  
-A collection of **animated UI components** for React and Next.js apps.  
-
-🔹 **Tech Used:** React, Framer Motion, Tailwind CSS  
-🔹 **Preview:**  
-![Framer Motion Components](https://your-image-hosting.com/framer-components.gif)  
-
 ---
 
 ## 🌎 **Let's Connect**  
