@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bement
+# 👋 Hi, I'm Bemnet
 
 🚀 **SaaS Builder | Full-Stack Developer | 3D Web Enthusiast**  
 💡 Passionate about **scalable SaaS applications** and **interactive 3D web experiences**.  
