@@ -35,14 +35,14 @@ A **scalable SaaS dashboard** with authentication, database management, and a cl
 🔹 **Tech Used:** Next.js, Prisma, PostgreSQL, Tailwind CSS  
 ---
 
-### 🎨 [**3D Portfolio Website**](https://your-portfolio-live-link.com)  
+### 🎨 [**3D Portfolio Website**](https://bemnet884.github.io/3D-Portfolio/)  
 A **fully interactive portfolio** with **Three.js, R3F, and Spline**, featuring 3D animations.  
 
-🔹 **Tech Used:** Next.js, Three.js, R3F, Spline, Tailwind CSS  
+🔹 **Tech Used:** React.js, Three.js, R3F, Spline, Tailwind CSS  
 🔹 **Live Demo:** [View Portfolio](https://bemnet884.github.io/3D-Portfolio/)  
-🔹 **Preview:**  ![Uploading Screen Shot 2025-01-29 at 3.59.16 PM.png…]()
+🔹 **Preview:**  
+ ![3D Portfolio Preview]<img width="1440" alt="Screen Shot 2025-01-29 at 4 03 11 PM" src="https://github.com/user-attachments/assets/6e28b81e-4332-4d0c-abba-eb695bcc033e" />
 
-![3D Portfolio Preview](https://your-image-hosting.com/3d-portfolio.gif)  
 
 ---
 
