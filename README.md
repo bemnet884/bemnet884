@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Bemnet
+# 👋 Hi, I'm Bemenet
 
-🚀 **SaaS Builder | Full-Stack Developer | 3D Web Enthusiast**  
-💡 Passionate about **scalable SaaS applications** and **interactive 3D web experiences**.  
+🚀 **SaaS Builder | Full-Stack & Mobile Developer | 3D Web Enthusiast**  
+💡 Passionate about **scalable SaaS applications**, **cross-platform mobile apps**, and **interactive 3D web experiences**.  
 🎨 Creating immersive designs using **Three.js, R3F, and Spline**.  
 
 ---
@@ -13,6 +13,10 @@
 - **Frontend:** React.js, Next.js, Tailwind CSS, Framer Motion  
 - **Backend:** Next.js API routes, Prisma, MongoDB, PostgreSQL  
 - **State Management:** Zustand, Redux Toolkit  
+
+### 📱 **Mobile Development**  
+- **Frameworks & Tools:** React Native, Expo  
+- **UI & Navigation:** React Navigation, React Native Reanimated  
 
 ### 🎨 **3D Web & Animations**  
 - **Three.js & R3F** → Interactive 3D experiences  
@@ -29,7 +33,7 @@
 
 ## 📌 **Featured Projects**  
 
-### 🚀 **Next.js SaaS Dashboard** 
+### 🚀 **Next.js SaaS Dashboard**  
 
 <img width="1440" alt="Screen Shot 2025-01-29 at 3 53 01 PM" src="https://github.com/user-attachments/assets/f1b6021f-b412-4db6-8cd8-fea427555510" />
 
@@ -48,9 +52,16 @@ A **fully interactive portfolio** with **Three.js, R3F, and Spline**, featuring 
 
 ---
 
+### 📱 **HIMS Mobile App**  
+The mobile version of HIMS, built to provide a seamless cross-platform experience.  
+
+🔹 **Tech Used:** React Native  
+
+---
+
 ## 🌎 **Let's Connect**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/bemnetbeyene)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/bemnet884)  
 
-💬 **Let’s collaborate** on **SaaS applications** and **3D web projects**!  
+💬 **Let’s collaborate** on **SaaS applications**, **Mobile Apps**, and **3D web projects**!  
